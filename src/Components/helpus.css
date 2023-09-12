@@ -1,0 +1,64 @@
+:root {
+    ---color: #FF1013;
+    --background-color: #fff;
+    --text-color:gray;
+  
+  }
+
+
+
+
+.helpus-container{
+    margin: 4rem;
+}
+
+
+
+.helpus-number {
+    background-color: var(---color);
+    color: #fff;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-top: -10px;
+    margin-right: -10px;
+    margin-left: -10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+    transition: 0.6s;
+    -webkit-transition: 0.8s;
+
+}
+
+.helpus-card:hover .helpus-number {
+    box-shadow: 0 0 0 500px var(---color);
+    background-color: white;
+    color:var(---color);
+}
+
+.helpus-card:hover .helpus-name {
+    color: white;
+}
+
+.helpus-icon {
+    color: var(---color);
+    font-size: 25px;
+}
+
+.helpus-card:hover .helpus-icon {
+    color: white;
+}
+
+
+.helpus-card p {
+    color: gray;
+}
+.helpus-card h3 {
+    color: black;
+}
+.helpus-card:hover,.helpus-card:hover p,.helpus-card:hover h3 {
+    color: white;
+}

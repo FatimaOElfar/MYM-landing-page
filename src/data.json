@@ -1,0 +1,299 @@
+[
+  {
+    "id": 1,
+    "job": "Frontend",
+    "Name": "Mohammed Tarek ",
+    "link": "../src/assets/Mohaed Elfayoumy.png",
+    "github": "https://github.com/m21102001",
+    "Linked": "https://www.linkedin.com/in/mohammed-elfayoumy-66548222a",
+    "be": "#"
+  },
+  {
+    "id": 2,
+    "job": "Frontend",
+    "Name": "Ayman Hossam ",
+    "link": "../src/assets/Ayman Hossam.png",
+    "github": "https://github.com/aymanhossam55",
+    "Linked": "https://www.linkedin.com/in/ayman-hossam-2085b1234/",
+    "be": ""
+  },
+  {
+    "id": 3,
+    "job": "Frontend",
+    "Name": "  Adel Ahmed ",
+    "link": "../src/assets/Adel Ahmed.png",
+    "github": " https://github.com/adelahmed0",
+    "Linked": "https://www.linkedin.com/in/adel-ahmed-0561a41b8",
+    "be": ""
+  },
+  {
+    "id": 4,
+    "job": "Frontend",
+    "Name": "Fatma Omar",
+    "link": "../src/assets/Fatma Omar.png",
+    "github": "https://github.com/FatimaOElfar",
+    "Linked": "https://www.linkedin.com/in/fatma-omar-82a151241/",
+    "be": ""
+  },
+  {
+    "id": 5,
+    "job": "Flutter",
+    "Name": "Mostafa Mahmoud  ",
+    "link": "https://t3.ftcdn.net/jpg/03/36/94/42/240_F_336944276_tpWzmwFi6JfZln5VlfBC1BZu5jgDOAl8.jpg",
+    "github": "https://github.com/Mostafa424-web/",
+    "Linked": " https://www.linkedin.com/in/mostafa-mahmoud-250325235",
+    "be": ""
+  },
+  {
+    "id": 6,
+    "job": "Flutter",
+    "Name": " Maryam abd elnaby  ",
+    "link": "https://t3.ftcdn.net/jpg/03/36/94/42/240_F_336944276_tpWzmwFi6JfZln5VlfBC1BZu5jgDOAl8.jpg",
+    "github": "https://github.com/Maryam-tabl/",
+    "Linked": "https://www.linkedin.com/in/maryam-tabl-110181229/",
+    "be": ""
+  },
+  {
+    "id": 7,
+    "job": "Flutter",
+    "Name": "Sara Abd-Elkader  ",
+    "link": "../src/assets/Sara Sedek.png",
+    "github": "https://github.com/SaraElgamal",
+    "Linked": "  https://www.linkedin.com/in/sara-elgamal-0079421a7",
+    "be": ""
+  },
+  {
+    "id": 8,
+    "job": "Flutter",
+    "Name": "omar sief elnasr  ",
+    "link": "https://t3.ftcdn.net/jpg/03/36/94/42/240_F_336944276_tpWzmwFi6JfZln5VlfBC1BZu5jgDOAl8.jpg",
+    "github": "https://github.com/omar1287",
+    "Linked": " https://www.linkedin.com/in/omar-sief-bb0964227/",
+    "be": ""
+  },
+  {
+    "id": 9,
+    "job": "Flutter",
+    "Name": "Ibrahim Abdou ",
+    "link": "https://t3.ftcdn.net/jpg/03/36/94/42/240_F_336944276_tpWzmwFi6JfZln5VlfBC1BZu5jgDOAl8.jpg",
+    "github": "https://github.com/IbraHiMm0",
+    "Linked": "  https://www.linkedin.com/in/ibrahim-abdou-4652a6245/",
+    "be": ""
+  },
+  {
+    "id": 10,
+    "job": "Flutter",
+    "Name": "Maha Farghaly  ",
+    "link": "https://t3.ftcdn.net/jpg/03/36/94/42/240_F_336944276_tpWzmwFi6JfZln5VlfBC1BZu5jgDOAl8.jpg ",
+    "github": "https://github.com/mahafarghaly",
+    "Linked": "  https://www.linkedin.com/in/maha-farghaly-70021324b  ",
+    "be": ""
+  },
+  {
+    "id": 11,
+    "job": "Graphic",
+    "Name": " Ola Abd El Alim ",
+    "link": "https://t3.ftcdn.net/jpg/03/36/94/42/240_F_336944276_tpWzmwFi6JfZln5VlfBC1BZu5jgDOAl8.jpg ",
+    "github": "",
+    "Linked": "https://www.linkedin.com/in/ola-abd-el-alim-01817a1ba",
+    "be": ""
+  },
+  {
+    "id": 12,
+    "job": "Graphic",
+    "Name": "Hoda Refaat ",
+    "link": "https://t3.ftcdn.net/jpg/03/36/94/42/240_F_336944276_tpWzmwFi6JfZln5VlfBC1BZu5jgDOAl8.jpg",
+    "github": "https://github.com/FatimaOElfar",
+    "Linked": "https://www.linkedin.com/in/hoda-refaat-771809255",
+    "be": ""
+  },
+  {
+    "id": 13,
+    "job": "Graphic",
+    "Name": "Nadia Salah ",
+    "link": "https://t3.ftcdn.net/jpg/03/36/94/42/240_F_336944276_tpWzmwFi6JfZln5VlfBC1BZu5jgDOAl8.jpg",
+    "github": "https://github.com/FatimaOElfar",
+    "Linked": "https://www.linkedin.com/in/elsafira-nadia-158176256",
+    "be": "https://www.behance.net/elsafiranadia"
+  },
+  {
+    "id": 14,
+    "job": "UI-UX",
+    "Name": "Khalid Mohamed",
+    "link": "../src/assets/Khalid Mohamed.png",
+    "github": "",
+    "Linked": "https://www.linkedin.com/in/khalid-mohamed-b0b6a5265?trk=contact-info",
+    "be": " Behance:https://www.behance.net/khalidmhmd/info"
+  },
+  {
+    "id": 15,
+    "job": "UI-UX",
+    "Name": "Rodina Darwish",
+    "link": "../src/assets/Rodina darwish.png ",
+    "github": "",
+    "Linked": "https://www.linkedin.com/in/rodina-darwish-976672185/",
+    "be": "https://www.behance.net/rodinadarwish"
+  },
+  {
+    "id": 16,
+    "job": "UI-UX",
+    "Name": "Salma tarek ",
+    "link": "../src/assets/Salma Tarek.png",
+    "github": "",
+    "Linked": "https://www.linkedin.com/in/salma-tarek-kotb",
+    "be": "https://www.behance.net/salmatarek46"
+  },
+  {
+    "id": 17,
+    "job": "UI-UX",
+    "Name": "Eren Safwat ",
+    "link": "../src/assets/Ereny Safwat.png",
+    "github": "",
+    "Linked": "https://www.linkedin.com/in/ereny-safwat-021b59208",
+    "be": "https://www.behance.net/erenysafwat2"
+  },
+  {
+    "id": 18,
+    "job": "UI-UX",
+    "Name": "Hager Hesham  ",
+    "link": "../src/assets/Hager Hesham.png",
+    "github": "",
+    "Linked": "http://linkedin.com/in/hager-hesham-a7019024b",
+    "be": "https://www.behance.net/hagerhesham10"
+  },
+  {
+    "id": 19,
+    "job": "UI-UX",
+    "Name": "Sara Sedek",
+    "link": "../src/assets/Sara Sedek.png",
+    "github": "",
+    "Linked": "https://www.linkedin.com/in/sara-sedek-248a1622a",
+    "be": ""
+  },
+  {
+    "id": 20,
+    "job": "UI-UX",
+    "Name": "Youssef Wael",
+    "link": "../src/assets/Youssef Wael.png",
+    "github": "",
+    "Linked": "https://www.linkedin.com/in/youssef-wael-a9505221b/",
+    "be": "https://www.behance.net/josephwael"
+  },
+  {
+    "id": 21,
+    "job": "UI-UX",
+    "Name": "Shrook naser",
+    "link": "../src/assets/shrook naser.png",
+    "github": "",
+    "Linked": "https://www.linkedin.com/in/shrook-naser-25a332229",
+    "be": "https://www.behance.net/shrooknaser211"
+  },
+  {
+    "id": 22,
+    "job": "UI-UX",
+    "Name": "Maryam Mostafa ",
+    "link": "../src/assets/Maryam Mostafa.png",
+    "github": "",
+    "Linked": "https://www.linkedin.com/in/maryam-mostafa-270458216",
+    "be": "https://www.behance.net/maryammostafa7"
+  },
+  {
+    "id": 23,
+    "job": "UI-UX",
+    "Name": "Amir Yousry ",
+    "link": "../src/assets/Amir Yousry 1.png",
+    "github": "",
+    "Linked": "https://www.linkedin.com/in/amir-yousry-1753b5264",
+    "be": "https://www.behance.net/amiryousry1"
+  },
+  {
+    "id": 24,
+    "job": "UI-UX",
+    "Name": "Marwa Othman Mohamed  ",
+    "link": "../src/assets/Marwa Othman.png",
+    "github": "",
+    "Linked": "https://www.linkedin.com/in/marwa-9844521b8",
+    "be": ""
+  },
+  {
+    "id": 25,
+    "job": "UI-UX",
+    "Name": "Alaa Ali ",
+    "link": "../src/assets/Alaa Ali.png",
+    "github": "",
+    "Linked": "https://www.linkedin.com/in/alaa-ali-rehab-4aa370248",
+    "be": "https://www.behance.net/alaaalimostafa"
+  },
+  {
+    "id": 26,
+    "job": "Back-End",
+    "Name": "Mohamed Ahmed ",
+    "link": "../src/assets/Mohamed Ahmed.png",
+    "github": "https://github.com/MohamedSaifEldeen2",
+    "Linked": "https://www.linkedin.com/in/mohamed-saif-eldeen",
+    "be": ""
+  },
+  {
+    "id": 27,
+    "job": "Back-End",
+    "Name": "Abdulrhman Mezar",
+    "link": "../src/assets/Abdulrhman Mohamed Mezar.png ",
+    "github": "https://github.com/abdumezar",
+    "Linked": " https://www.linkedin.com/in/abdumezar",
+    "be": ""
+  },
+  {
+    "id": 28,
+    "job": "Back-End",
+    "Name": "Hesham Orabi",
+    "link": "../src/assets/Hesham Orabi.png",
+    "github": " N/A",
+    "Linked": "https://www.linkedin.com/in/hesham-orabi",
+    "be": ""
+  },
+  {
+    "id": 29,
+    "job": "Back-End",
+    "Name": "Mohammed Hafeez ",
+    "link": "../src/assets/Mohammed Hafiez.png",
+    "github": "https://github.com/MUHAMMEDHAFEEZ",
+    "Linked": " https://www.linkedin.com/in/mohammed-hafeez-574306235",
+    "be": ""
+  },
+  {
+    "id": 30,
+    "job": "Back-End",
+    "Name": "AbdElRahman Hassan  ",
+    "link": "../src/assets/Abd El Rahman Hassan.png",
+    "github": "https://github.com/Abdelrahman435",
+    "Linked": "https://www.linkedin.com/in/abd-el-rahman-hassan-1ba1ab237",
+    "be": ""
+  },
+  {
+    "id": 31,
+    "job": "Back-End",
+    "Name": "Ahmed Osama ",
+    "link": "../src/assets/ahmed osama.png",
+    "github": "https://github.com/AhmedOsama779",
+    "Linked": "https://www.linkedin.com/in/ahmed-osama-6895a0243",
+    "be": ""
+  },
+  {
+    "id": 32,
+    "job": "Back-End",
+    "Name": "Yusef Sherif ",
+    "link": "../src/assets//Yusef Sherif.png",
+    "github": " https://github.com/StylishCS",
+    "Linked": "https://www.linkedin.com/in/yusef-sherif-158855262",
+    "be": ""
+  },
+  {
+    "id": 33,
+    "job": "Content creation/editing",
+    "Name": "Youssef emad ",
+    "link": "https://t3.ftcdn.net/jpg/03/36/94/42/240_F_336944276_tpWzmwFi6JfZln5VlfBC1BZu5jgDOAl8.jpg",
+    "github": "",
+    "Linked": "https://www.linkedin.com/in/joseph-awad-b93a55201",
+    "be": ""
+  }
+]

@@ -1,0 +1,40 @@
+:root {
+    ---color: #FF1013;
+    --background-color: #fff;
+    --text-color:gray;
+  
+  }
+
+
+.technologies-used{
+    background-color: #171836;
+}
+
+.technologies-number {
+    background-color: var(---color);
+    color: #fff;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-top: -10px;
+    margin-right: -10px;
+    margin-left: -10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+    transition: 0.6s;
+    -webkit-transition: 0.8s;
+
+}
+
+.technologies-card:hover .technologies-number {
+    box-shadow: 0 0 0 500px var(---color);
+    background-color: white;
+    color:var(---color);
+}
+
+.technologies-card:hover .technologies-name {
+    color: white;
+}

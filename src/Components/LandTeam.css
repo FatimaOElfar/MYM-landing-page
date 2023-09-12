@@ -1,0 +1,16 @@
+:root {
+    ---color: #FF1013;
+    --background-color: #fff;
+    --text-color:gray;
+  
+  }
+  .button li  button{
+    border:  1px solid var(---color);
+    color: var(--text-color);
+
+  }
+  .button button:hover{
+
+    color: var(--background-color);
+    background-color: var(---color);
+  }
